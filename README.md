@@ -22,6 +22,6 @@ Import this collection using link:
 
 https://www.getpostman.com/collections/6b59697079ff0d50c640
 
-## For any quries, contact: 
+##### For any quries, contact: 
 
 https://github.com/xenon-girl
