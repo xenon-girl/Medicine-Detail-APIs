@@ -7,6 +7,7 @@ git clone https://github.com/xenon-girl/Medicine-Detail-APIs.git
 
 ## Create Database(MySql): 
 cd api/db/ 
+
 Run file medicineDeatils.sql
 
 ## How to Start:
